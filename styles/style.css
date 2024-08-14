@@ -37,6 +37,14 @@ ol {
   list-style: none;
 }
 
+.page {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 1200px;
+  height: 800px;
+}
+
 .content {
   padding: 133px 30px;
   display: grid;
